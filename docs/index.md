@@ -9,5 +9,5 @@
 &nbsp;
 # Presentación
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+- **Nombre**: Juan José Armenta Gonzalez
+- **Correo**: juanjo100621@hotmail.com
