@@ -76,5 +76,19 @@ En un equipo de desarrollo existen ciertas jerarquías de trabajo, sin embargo, 
 
 Como podras darte cuenta, elegir un equipo de desarrollo no es tarea fácil, debes de conseguir gente experta, tanto en su forma de trabajo (para convivir y asumir responsabilidades) como en la parte técnica (debe conocer la base del código y de lo que se habla). 
 
-También debes tomar en cuenta que rol le asignaras a cada miembro del equipo, esto creara el ambiente adecuado para que el equipo trabaje eficientemente y sin retrasos, asi los superiores pueden ayudar a cualquier caso que tenga compliaciones rapidamente. 
+También debes tomar en cuenta que rol le asignaras a cada miembro del equipo, esto creara el ambiente adecuado para que el equipo trabaje eficientemente y sin retrasos, asi los superiores pueden ayudar a cualquier caso que tenga compliaciones rapidamente.
+
 ![Mi Imágen](/archivos/individual/actividad-01/equip_desa.jpg)
+
+## Bibliografia
+
+- Equipos de desarrollo de software. (2017). Equipos de desarrollo de software. Retrieved August 29, 2021, from Sistel.es website: https://www.sistel.es/equipos-desarrollo-software
+- Maida, EG, Pacienzia, J. Metodologías de desarrollo de software [en línea]. Tesis de Licenciatura en Sistemas y
+Computación. Facultad de Química e Ingeniería “Fray Rogelio Bacon”. Universidad Católica Argentina, 2015.
+Disponible en: http://bibliotecadigital.uca.edu.ar/repositorio/tesis/metodologias-desarrollo-software.pdf [Fecha de
+consulta: 29/08/2021]
+- Damorelos. (2019). 4 Características de los mejores equipos de desarrollo ágil de software - Scio México. Retrieved August 29, 2021, from Scio México website: https://www.scio.com.mx/blog/equipos-de-desarrollo-agil-de-software/
+
+
+‌
+
